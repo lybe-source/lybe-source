@@ -44,7 +44,11 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Lybe_ from Belgium<br><br>- 📚 I'm currently learning Symfony 6.3<br>- 🎯 Currently looking for an alternance for September 2023</p>
+<p align="left">
+  I'm Lobet Ludovic known as Lybe_ from Belgium<br><br>
+  - 📚 I'm currently learning Symfony 6.3<br>
+  - 🎯 Currently looking for an alternance for September 2023
+</p>
 
 ###
 
