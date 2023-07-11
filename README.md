@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  [<img height="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />](https://github.com/lybe-source/lybe-source/blob/main/README.md)
+  
+  ![Dev Gif](https://github.com/lybe-source/lybe-source/blob/main/DevGif.gif)
+  
 </div>
 
 ###
