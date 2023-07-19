@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <p align="left">
   I'm L. Ludovic known as Lybe_ from Belgium<br><br>
   - 📚 I'm currently learning Symfony 6.3<br>
-  - 🎯 Currently looking for an alternance for September 2023
+  - 🎯 Currently looking for an alternance in web development for September 2023
 </p>
 
 ###
