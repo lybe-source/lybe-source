@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lybe-source.lybe-source&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lybe-source.lybe-source"  />
 </div>
 
 ###
