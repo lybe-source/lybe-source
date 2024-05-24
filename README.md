@@ -1,78 +1,37 @@
-<!--
-**lybe-source/lybe-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courgette&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+there+%2C+I'm+Lybe_+%F0%9F%A4%94)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-  
-  ![Dev Gif](https://github.com/lybe-source/lybe-source/blob/main/DevGif.gif)
-  
-</div>
+<img src="https://wallpaperaccess.com/full/6604090.gif">
 
-###
+## About me:
 
-<!--
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lybe-source.lybe-source"  />
-</div>
--->
+`I'm L. Ludovic known as Lybe_ from Belgium and I'm a web development self-taught :)`  
+- 📚 I'm currently learning Symfony 7  
+- 🎯 Also learning React 18.2.0  
+- 🎓 Currently looking for a web development job  
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## Contact me on discord :
+<img src="https://discord.c99.nl/widget/theme-3/272039778206089224.png">
 
-###
+## Programming languages & Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,nodejs,react,php,symfony)](https://skillicons.dev)
 
-<p align="left">
-  I'm L. Ludovic known as Lybe_ from Belgium<br><br>
-  - 📚 I'm currently learning Symfony 7<br>
-  - 🎯 Also learning React 18.2.0<br>
-  - 🎓 Currently looking for a web development job
+## Tools :
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,mysql)](https://skillicons.dev)
+
+## Distros :
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height=50px width=50px> |  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height=50px width=50px> | 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height=50px width=50px>
 </p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+## Github stats :
+<div style="display: flex;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lybe-source&&theme=tokyonight&layout=compact&langs_count=10" alt="Top Langs">
+    </a>
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lybe-source&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
