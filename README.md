@@ -7,7 +7,7 @@
 ## About me:
 
 `I'm L. Ludovic known as Lybe_ from Belgium and I'm a web development self-taught :)`  
-- 📚 I'm currently learning Symfony 7  
+- 📚 I mainly develop with Symfony 7  
 - 🎯 Also learning React 18.2.0  
 - 🎓 Currently looking for a web development job  
 
