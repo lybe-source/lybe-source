@@ -35,12 +35,12 @@
     <img src="https://github-readme-stats.vercel.app/api?username=lybe-source&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_fr.md#personnalisation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lybe-source&repo=github-readme-stats&show_owner=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lybe-source&repo=lybe-source&show_owner=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_fr.md#personnalisation">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lybe-source&layout=compact&theme=tokyonight" />
   </a>
 </div>
 ![Les Stats GitHub de Lybe_](https://github-readme-stats.vercel.app/api?username=lybe-source&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=lybe-source&repo=github-readme-stats&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=lybe-source&repo=lybe-source&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lybe-source&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
