@@ -32,7 +32,7 @@
 ## Github stats :
 <div style="display: flex";>
   <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_fr.md#personnalisation">
-    <img src="https://github-readme-stats.vercel.app/api?username=lybe-source&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide=prs,contribs,rank" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lybe-source&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide=prs,rank" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_fr.md#personnalisation">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lybe-source&layout=compact&theme=tokyonight" />
