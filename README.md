@@ -24,8 +24,8 @@
 
 ## Distros :
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height=50px width=50px> |  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height=50px width=50px> | 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height=50px width=50px>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height=50px width=50px>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height=50px width=50px>
 </p>
 
