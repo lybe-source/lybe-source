@@ -30,8 +30,4 @@
 </p>
 
 ## Github stats :
-<div style="display: flex;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lybe-source&&theme=tokyonight&layout=compact&langs_count=10" alt="Top Langs">
-    </a>
-</div>
+![Les Stats GitHub de Lybe_](https://github-readme-stats.vercel.app/api?username=lybe-source&&theme=tokyonight&show_icons=true)
