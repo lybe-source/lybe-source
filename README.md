@@ -31,9 +31,9 @@
 
 ## Github stats :
 <div style="display: flex";>
-  <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_fr.md#personnalisation">
+  <!--<a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_fr.md#personnalisation">
     <img src="https://github-readme-stats.vercel.app/api?username=lybe-source&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=prs,issues,contribs" />
-  </a>
+  </a>-->
   <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_fr.md#personnalisation">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lybe-source&layout=compact&theme=tokyonight" />
   </a>
