@@ -37,7 +37,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_fr.md#personnalisation">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lybe-source&layout=compact&theme=tokyonight" />
   </a>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lybe-source)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!--
 ![Les Stats GitHub de Lybe_](https://github-readme-stats.vercel.app/api?username=lybe-source&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)
